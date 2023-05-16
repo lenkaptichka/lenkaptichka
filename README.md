@@ -15,7 +15,7 @@
 
 ### :zap: About Me :
 
-:woman_technologist: I'm Efanova Lena, junior frontend developer from Zelenograd, Moscow
+:woman_technologist: I'm Efanova Lena, frontend developer from Zelenograd, Moscow
 
 :rocket: I worked in [Innotech](https://inno.tech/ru/) and now I'm looking for a new career opportunity
 
