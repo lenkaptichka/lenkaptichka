@@ -67,10 +67,9 @@
 
 ---
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=lenkaptichka&theme=transparent&mode=weekly&card_width=500&background=FFFCF586&ring=F7B293&fire=E4B34C&stroke=F7B293&currStreakNum=8CBFC2&sideNums=8CBFC2&sideLabels=3F7D8A&dates=E4B34C&currStreakLabel=3F7D8A)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lenkaptichka&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenkaptichka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenkaptichka&layout=compact&theme=graywhite&bg_color=FFFCF586)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
