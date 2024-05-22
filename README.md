@@ -17,7 +17,7 @@
 
 :woman_technologist: I'm Efanova Lena, frontend developer from Zelenograd, Moscow
 
-:rocket: I worked in [Innotech](https://inno.tech/ru/) and now I'm looking for a new career opportunity
+:rocket: I worked in [Innotech](https://inno.tech/ru/) and [SberKorus](https://www.esphere.ru/) now I'm looking for a new career opportunity
 
 :mortar_board: Here are mainly my educational projects. The largest of the last [StellarBurger](https://lenkaptichka.github.io/react-burger/#/)
 
